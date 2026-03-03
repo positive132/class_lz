@@ -1,9 +1,9 @@
 import lz_1
-import graf
+import grafic
 
 def main():
     lz_1.main()
-    graf.main()
+    grafic.main()
     
 if __name__ == '__main__':
     main()
